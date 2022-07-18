@@ -1,0 +1,17 @@
+phpmailer/
+package-lock.json
+flsStartTemplate/
+node_modules/
+Source/
+# dist/
+# .gitignore
+version.json
+undefined
+**/*.zip
+**/*.rar
+
+config/
+src/
+package.json
+snnipets.txt
+gulpfile.js
