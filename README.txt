@@ -1,1 +1,1 @@
-<a href="https://max98002.github.io/farmvest/dist">Project Farm Vest</a>
+Project Farm Vest - https://max98002.github.io/farmvest/dist
